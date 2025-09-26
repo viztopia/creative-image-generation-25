@@ -1,0 +1,32 @@
+{
+  "subfolders": [
+    {
+      "name": "exercise",
+      "url": "https://docs.google.com/presentation/d/15Wa_mMg8zRmy2U2-gFinMEXPi9k7DX1_vM2HoAIZxJo/edit?usp=drive_link"
+    },
+    {
+      "name": "lexica",
+      "url": "https://lexica.art/"
+    },
+    {
+      "name": "AI-Prompt-Generator",
+      "url": "https://www.feedough.com/ai-prompt-generator/"
+    },
+    {
+      "name": "Aspect-Ratio-Plus-Plus",
+      "url": "https://github.com/altoiddealer/--sd-webui-ar-plusplus"
+    },
+    {
+      "name": "Infinite-Image-Browser",
+      "url": "https://github.com/zanllp/sd-webui-infinite-image-browsing"
+    },
+    {
+      "name": "Regional-Prompter",
+      "url": "https://github.com/hako-mikan/sd-webui-regional-prompter"
+    },
+    {
+      "name": "ADetailer",
+      "url": "https://github.com/Bing-su/adetailer"
+    }
+  ]
+}
